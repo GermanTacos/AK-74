@@ -205,7 +205,11 @@
 		<override>
 			<wpn_fps_ass_ak_stamp_545_fsb_ak74 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_md_ak74  unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_clr_ak74 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_clr_ak105"/>
 		</override>
+		<forbids>
+			<value_node value="wpn_fps_ass_ak_stamp_545_clr_ak74m"/>
+		</forbids>
 		<pcs/>
 	</WeaponMod>
 	
