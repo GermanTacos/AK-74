@@ -205,7 +205,7 @@
 		<pcs/>
 	</WeaponMod>
 	
-	<!-- AK-104 -->
+	<!-- AK-105 -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_ba_ak105"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_ba_ak105"    	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<override>
