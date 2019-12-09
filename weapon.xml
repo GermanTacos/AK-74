@@ -1,7 +1,7 @@
 <table>
 
 	<Weapon unlock_level="0">
-		<weapon id="ak_stamp_545" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_stamp_545">
+		<weapon id="ak_stamp_545" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_pack_2">
 			<stats damage="65" spread="18" spread_moving="18" recoil="16" concealment="14" suppression="8"/>
 			<fire_mode_data fire_rate="0.1"/>
 			<AMMO_PICKUP>
@@ -99,7 +99,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_545_m_bake_30"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_545_re_aks74"/>
-				<value_node value="wpn_fps_ass_ak_stamp_545_st_f_aks74"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_st_uf_aks74"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_545_ba_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_bo_ak74m"/>
@@ -111,7 +111,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_545_uhg_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_pg_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74m"/>
-				<value_node value="wpn_fps_ass_ak_stamp_545_st_f_ak74m"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_st_uf_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_md_ak74m"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_545_ba_ak105"/>

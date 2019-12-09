@@ -1,6 +1,6 @@
 {
 
-	"menu_l_global_value_ak_stamp_545" : "This is an AK Pack 2 item!",
+	"menu_l_global_value_ak_pack_2" : "This is an AK Pack 2 item!",
 	
 	"bm_w_ak_stamp_545" : "AK-74",
 	
@@ -51,8 +51,9 @@
 	"bm_menu_trigger_guard"        					: "Trigger Guard",
 	"bm_menu_trigger_guard_plural"    				: "Trigger Guards",
 	
-	"bm_wp_wpn_fps_ass_ak_stamp_545_re_aks74"   : "AKS-74 Receiver",
-	"bm_wp_wpn_fps_ass_ak_stamp_545_st_f_aks74" : "AKS-74 Stock (Folded)",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_re_aks74"    : "AKS-74 Receiver",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_st_uf_aks74" : "AKS-74 Stock",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_st_f_aks74"  : "AKS-74 Stock (Folded)",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_re_ak74m"   : "AK-74M Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_tr_ak74m"   : "AK-74M Trigger",
