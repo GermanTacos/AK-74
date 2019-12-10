@@ -118,5 +118,10 @@
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_bake_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_30"/>
+	
+	<!-- COMPATIBILITY PARTS -->
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_ak74"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_ak74_thq"/>
 
 </AddFiles>
