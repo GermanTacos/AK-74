@@ -51,6 +51,10 @@
 	"bm_menu_trigger_guard"        					: "Trigger Guard",
 	"bm_menu_trigger_guard_plural"    				: "Trigger Guards",
 	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_ak74" : "AK-74 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_ak74" : "AK-74 Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_st_ak74"  : "AK-74 Stock",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_re_aks74"    : "AKS-74 Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_st_uf_aks74" : "AKS-74 Stock",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_st_f_aks74"  : "AKS-74 Stock (Folded)",
@@ -74,6 +78,10 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_545_ba_ak105"   : "AK-105 Barrel",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_gb_ak105"   : "AK-105 Combo Gas Block",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_md_ak105"   : "AK-105 Flash Hider",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_545_gb_md85"    : "PM md.86 Gas Block",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_fsb_md85"   : "PM md.86 Front Sight Block",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_tr_md85"    : "PM md.86 Trigger",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_m_bake_45"  : "45 Round Bakelite RPK-74 Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_m_steel_30" : "30 Round Steel Magazine",

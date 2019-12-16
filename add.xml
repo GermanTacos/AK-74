@@ -10,14 +10,14 @@
 	
 	<!-- AK-74 PARTS -->
 	
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_main_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_handguard_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_stock_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_pistol_grip_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_dust_cover_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_bolt_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_rear_sight_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_muzzle_brake_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_main_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_handguard_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_stock_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_pistol_grip_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_dust_cover_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_bolt_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_rear_sight_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_muzzle_brake_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_ba_ak74"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_bo_ak74"/>
@@ -49,8 +49,8 @@
 	
 	<!-- AKS-74 PARTS -->
 	
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/aks74_main_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/aks74_stock_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/aks74_main_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/aks74_stock_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/wpn_fps_ass_ak_stamp_545_re_aks74"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/wpn_fps_ass_ak_stamp_545_ftru_aks74"/>
@@ -63,13 +63,13 @@
 	
 	<!-- AK-74M PARTS -->
 	
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_main_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_handguard_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_stock_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_pistol_grip_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_dust_cover_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_bolt_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_muzzle_brake_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_main_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_handguard_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_stock_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_pistol_grip_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_dust_cover_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_bolt_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/ak74m_muzzle_brake_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/wpn_fps_ass_ak_stamp_545_ba_ak74m"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/wpn_fps_ass_ak_stamp_545_bo_ak74m"/>
@@ -103,8 +103,8 @@
 	
 	<!-- AK-105 PARTS -->
 	
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/ak105_main_std"/>
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/ak105_muzzle_brake_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/ak105_main_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/ak105_muzzle_brake_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_ba_ak105"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_clr_ak105"/>
@@ -113,9 +113,17 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_re_ak105"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_ftru_ak105"/>
 	
+	<!-- PM MD 86 PARTS -->
+	
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/md86_main_std"/>
+
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_gb_md86"/>
+	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_fsb_md86"/> -->
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_tr_md86"/>
+	
 	<!-- MAG PARTS -->
 	
-	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_bake_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_bake_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_30"/>
 	
