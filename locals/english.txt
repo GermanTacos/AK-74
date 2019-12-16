@@ -82,6 +82,10 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_545_gb_md86"    : "PM md.86 Gas Block",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_fsb_md86"   : "PM md.86 Front Sight Block",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_tr_md86"    : "PM md.86 Trigger",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_lhg_md86"   : "PM md.86 'Dong' Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_uhg_md86"   : "PM md.86 Bakelite Upper Handguard",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_545_lhg_shark"  : "PM md.86 'Shark Fin' Lower Handguard",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_m_bake_45"  : "45 Round Bakelite RPK-74 Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_m_steel_30" : "30 Round Steel Magazine",

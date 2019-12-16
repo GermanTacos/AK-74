@@ -267,6 +267,30 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_545_lhg_md86"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_lower" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_lhg_md86"  	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<weapons>
+			<value_node value="wpn_fps_ass_ak_stamp_762"/>
+			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+		</weapons>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_545_uhg_md86"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_upper"				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_uhg_md86"		texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<weapons>
+			<value_node value="wpn_fps_ass_ak_stamp_762"/>
+			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+		</weapons>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_545_lhg_shark"  based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_lower" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_lhg_shark"  	texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<weapons>
+			<value_node value="wpn_fps_ass_ak_stamp_762"/>
+			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+		</weapons>
+		<pcs/>
+	</WeaponMod>
+	
 	<!-- MAGAZINES -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_m_bake_30" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_30" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
