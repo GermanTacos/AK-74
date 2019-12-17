@@ -128,8 +128,10 @@
 	<!-- MAG PARTS -->
 	
 	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_bake_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_steel_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_steel_30"/>
 	
 	<!-- COMPATIBILITY PARTS -->
 	
