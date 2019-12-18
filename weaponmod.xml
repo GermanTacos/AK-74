@@ -264,6 +264,10 @@
 	
 	<!-- MD 86 -->
 	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_545_re_wasr"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="receiver" 						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_re_wasr"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_tr_md86"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="trigger"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_tr_md86"      texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<pcs/>
 	</WeaponMod>

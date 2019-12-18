@@ -119,9 +119,11 @@
 	
 	<!-- PM MD 86 PARTS -->
 	
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wasr_main_std"/>
 	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/md86_main_std"/>
 	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/md86_handguard_std"/>
 
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_re_wasr"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_gb_md86"/>
 	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_fsb_md86"/> -->
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_md86_pts/wpn_fps_ass_ak_stamp_545_tr_md86"/>

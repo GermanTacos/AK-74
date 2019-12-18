@@ -81,6 +81,8 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_545_gb_ak105"   : "AK-105 Combo Gas Block",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_md_ak105"   : "AK-105 Flash Hider",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_545_re_wasr"    : "WASR-2 Receiver",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_gb_md86"    : "PM md.86 Gas Block",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_fsb_md86"   : "PM md.86 Front Sight Block",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_tr_md86"    : "PM md.86 Trigger",
