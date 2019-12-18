@@ -128,10 +128,24 @@
 	<!-- MAG PARTS -->
 	
 	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_bake_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_bake_45_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_poly_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_poly_45_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_poly_10_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_plum_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_quad_60_std"/>
 	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/mag_steel_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_45"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_poly_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_poly_45"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_poly_10"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_quad_60"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_steel_30"/>
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_plum_30"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_plum_30_thq"/>
 	
 	<!-- COMPATIBILITY PARTS -->
 	

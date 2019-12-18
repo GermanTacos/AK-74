@@ -88,6 +88,10 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_545_lhg_shark"  : "PM md.86 'Shark Fin' Lower Handguard",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_m_bake_45"  : "45 Round Bakelite RPK-74 Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_m_poly_30"  : "30 Round Polymer AK-74M Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_m_poly_45"  : "45 Round Polymer RPK-74M Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_m_poly_10"  : "10 Round Polymer Saiga Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_545_m_quad_60"  : "60 Round Quadstacked Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_m_steel_30" : "30 Round Steel Magazine",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_md_no"  : "Remove Muzzle Device",
@@ -96,6 +100,8 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_545_lhg_no" : "Remove Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_uhg_no" : "Remove Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_st_no"  : "Remove Stock",
+	
+	"bm_w_paint_m_plum" : "Plum Polymer AK-74M Magazine",
 	
 	"bm_wp_end" : "End"
 	

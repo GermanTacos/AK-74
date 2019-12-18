@@ -97,6 +97,11 @@
 				<value_node value="wpn_fps_ass_ak_stamp_545_rtru_ak74"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_545_m_bake_30"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_m_bake_45"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_m_poly_30"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_m_poly_45"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_m_poly_10"/>
+				<value_node value="wpn_fps_ass_ak_stamp_545_m_quad_10"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_m_steel_30"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_545_re_aks74"/>
