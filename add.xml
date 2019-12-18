@@ -47,6 +47,10 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_ftru_ak74"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_rtru_ak74"/>
 	
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/ak74_stock_poly_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_st_ak74_poly"/>
+	
 	<!-- AKS-74 PARTS -->
 	
 	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_aks74_pts/aks74_main_std"/>

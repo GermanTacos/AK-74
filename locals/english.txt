@@ -55,6 +55,8 @@
 	"bm_wp_wpn_fps_ass_ak_all_uhg_ak74" : "AK-74 Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_st_ak74"  : "AK-74 Stock",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_545_st_ak74_poly" : "Polymer AK-74 Stock",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_545_re_aks74"    : "AKS-74 Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_st_uf_aks74" : "AKS-74 Stock",
 	"bm_wp_wpn_fps_ass_ak_stamp_545_st_f_aks74"  : "AKS-74 Stock (Folded)",
