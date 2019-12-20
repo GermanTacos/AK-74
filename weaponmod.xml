@@ -12,7 +12,7 @@
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_dc_ak74"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_dc_ak74"      texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_ak_stamp_545_fs_ak74"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_front"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_fs_ak74"      texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_ak_stamp_545_fo_ak74"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_front"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_fo_ak74"      texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_fsb_ak74"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_block_front"				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_fsb_ak74"  	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
@@ -214,8 +214,10 @@
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_ba_ak105"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_ba_ak105"    	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<override>
-			<wpn_fps_ass_ak_stamp_545_clr_ak74  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_clr_ak105"/>
+			<wpn_fps_ass_ak_stamp_545_clr_ak74 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak105_pts/wpn_fps_ass_ak_stamp_545_clr_ak105"/>
 			<wpn_fps_ass_ak_stamp_545_fsb_ak74 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_gb_ak74  unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_fo_ak74  a_obj="a_fo_ak105"/>
 		</override>
 		<forbids>
 			<value_node value="wpn_fps_ass_ak_stamp_545_clr_ak74m"/>
