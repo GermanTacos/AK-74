@@ -370,6 +370,10 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<!-- MOUNT -->
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_545_om_tula"	based_on="wpn_fps_ass_flint_body_upperreceiver" type="optic_mount" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_shared_pts/wpn_fps_ass_ak_stamp_545_om_tula"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
+	
 	<!-- COMPATIBILITY -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_lhg_ak74"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_lower" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74_pts/wpn_fps_ass_ak_stamp_545_lhg_ak74"  	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">

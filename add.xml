@@ -157,5 +157,11 @@
 	
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_ak74"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_ak74_thq"/>
+	
+	<!-- MOUNT PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_545_shared_pts/wpn_fps_ass_ak_stamp_545_om_tula"/>
 
 </AddFiles>
