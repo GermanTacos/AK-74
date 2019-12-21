@@ -313,6 +313,7 @@
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_m_bake_30"  based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_30"  texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_m_bake_45" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_bake_45" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override_weapon CLIP_AMMO_MAX="45"/>
 		<pcs/>
 	</WeaponMod>
 	
@@ -328,14 +329,17 @@
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_m_poly_45" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_poly_45" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override_weapon CLIP_AMMO_MAX="45"/>
 		<pcs/>
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_m_poly_10" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_poly_10" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override_weapon CLIP_AMMO_MAX="10"/>
 		<pcs/>
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_545_m_quad_60" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_mag_pts/wpn_fps_ass_ak_stamp_545_m_quad_60" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override_weapon CLIP_AMMO_MAX="60"/>
 		<pcs/>
 	</WeaponMod>
 	
