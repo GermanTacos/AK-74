@@ -114,7 +114,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_545_clr_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_dc_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_fsb_ak74m"/>
-				<value_node value="wpn_fps_ass_ak_stamp_545_gb_ak74m"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_545_gb_ak74m"/> -->
 				<value_node value="wpn_fps_ass_ak_stamp_545_lhg_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_uhg_ak74m"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_pg_ak74m"/>
@@ -128,7 +128,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_545_md_ak105"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-				<value_node value="wpn_fps_ass_ak_stamp_545_gb_md86"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_545_gb_md86"/> -->
 				<value_node value="wpn_fps_ass_ak_stamp_545_tr_md86"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_lhg_md86"/>
 				<value_node value="wpn_fps_ass_ak_stamp_545_uhg_md86"/>
