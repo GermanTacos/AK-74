@@ -15,7 +15,7 @@
 			<animations reload_name_id="flint" equip_id="equip_flint" recoil_steelsight="true"/>
 		</weapon>
 
-		<factory id="wpn_fps_ass_ak_stamp_545" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545/wpn_fps_ass_ak_stamp_545" >
+		<factory id="wpn_fps_ass_ak_stamp_545" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545/wpn_fps_ass_ak_stamp_545" stock_adapter="wpn_fps_pis_sparrow_g_dummy">
 			
 			<animations fire="recoil" reload="reload" reload_not_empty="reload_not_empty" fire_steelsight="recoil"/>
 			
@@ -177,6 +177,13 @@
 				<value_node value="wpn_fps_upg_o_rx01"/>
 				<value_node value="wpn_fps_upg_o_rx30"/>
 				<value_node value="wpn_fps_upg_o_spot"/>
+				
+				<value_node value="wpn_fps_upg_m4_s_standard"/>
+				<value_node value="wpn_fps_upg_m4_s_pts"/>
+				<value_node value="wpn_fps_upg_m4_s_crane"/>
+				<value_node value="wpn_fps_upg_m4_s_mk46"/>
+				<value_node value="wpn_fps_upg_m4_s_ubr"/>
+				<value_node value="wpn_fps_snp_tti_s_vltor"/>
 				
 			</uses_parts>
 			
