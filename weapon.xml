@@ -5,8 +5,8 @@
 			<stats damage="65" spread="18" spread_moving="18" recoil="16" concealment="14" suppression="8"/>
 			<fire_mode_data fire_rate="0.1"/>
 			<AMMO_PICKUP>
-					<value_node value="1.5"/>
-					<value_node value="4.0"/>
+					<value_node value="2.5"/>
+					<value_node value="5.0"/>
 			</AMMO_PICKUP>
 			<timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/>
 			<!-- <sounds fire="ak74_fire_single" fire_single="ak74_fire_single" fire_auto="ak74_fire_single" use_fix="true">  -->
